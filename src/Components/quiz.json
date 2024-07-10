@@ -1,0 +1,238 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which artist or group did John Lennon consider &quot;son(s) of the Beatles&quot;?",
+        "correct_answer": "Jeff Lynne's Electric Light Orchestra",
+        "incorrect_answers": [
+            "The Rolling Stones",
+            "Pink Floyd",
+            "The Who"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Celebrities",
+        "question": "What was the religion of famous singer &quot;Freddie Mercury&quot;?",
+        "correct_answer": "Zoroastrianism",
+        "incorrect_answers": [
+            "Paganism",
+            "Ashurism",
+            "Judaism"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "On which planet does the game Freedom Planet (2014) take place?",
+        "correct_answer": "Avalice",
+        "incorrect_answers": [
+            "Freedom",
+            "Galaxytrail",
+            "Shang Mu"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What did the abbreviation &quot;RMS&quot; stand for in the RMS Titanic in 1912?",
+        "correct_answer": "Royal Mail Ship",
+        "incorrect_answers": [
+            "Royal Majesty Service",
+            "Regular Maritime Schedule ",
+            "Regulated Maelstrom Sensor"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which team won the &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; Invitational Event February 2017 in the PC Category?",
+        "correct_answer": "Continuum",
+        "incorrect_answers": [
+            "GIFU",
+            "Santos Dexterity",
+            "eRa Eternity"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "111,111,111 x 111,111,111 = 12,345,678,987,654,321",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In what year did the Berlin Wall fall?",
+        "correct_answer": "1989",
+        "incorrect_answers": [
+            "1987",
+            "1991",
+            "1993"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Which of these choices is not one of the phases of mitosis?",
+        "correct_answer": "Diplophase",
+        "incorrect_answers": [
+            "Metaphase",
+            "Anaphase",
+            "Telophase"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "What three movies, in order from release date, make up the &quot;Dollars Trilogy&quot;?",
+        "correct_answer": "&quot;A Fistful of Dollars&quot;, &quot;For a Few Dollars More&quot;, &quot;The Good, the Bad, and the Ugly&quot;",
+        "incorrect_answers": [
+            "&quot;The Good, the Bad, and the Ugly&quot;, &quot;For A Few Dollars More&quot;, &quot;A Fistful of Dollars&quot;",
+            "&quot;For a Few Dollars More&quot;, &quot;The Good, the Bad, and the Ugly&quot;, &quot;A Fistful of Dollars&quot;",
+            "&quot;For a Few Dollars More&quot;, &quot;A Fistful of Dollars&quot;, &quot;The Good, the Bad, and the Ugly&quot;"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What&#039;s the name of the main protagonist in the &quot;Legend of Zelda&quot; franchise?",
+        "correct_answer": "Link",
+        "incorrect_answers": [
+            "Mario",
+            "Zelda",
+            "Pit"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is the nickname for the US state Delaware?",
+        "correct_answer": "The First State",
+        "incorrect_answers": [
+            "The Fiftieth State",
+            "The Second State",
+            "The Sixteenth State"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Which WWF wrestler had the nickname &quot;The Ayatollah of Rock &#039;N&#039; Rolla&quot;?",
+        "correct_answer": "Chris Jericho",
+        "incorrect_answers": [
+            "Marty Jannetty",
+            "Scott Hall",
+            "Shawn Michaels"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Mythology",
+        "question": "What was the punishment for Sysiphus&#039;s craftiness?",
+        "correct_answer": "Cursed to roll a boulder up a hill for eternity.",
+        "incorrect_answers": [
+            "Tied to a boulder for eternity, being pecked by birds.",
+            "Standing in a lake filled with water he could not drink.",
+            "To fell a tree that regenerated after every axe swing."
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the highest mountain in the world?",
+        "correct_answer": "Mt. Everest",
+        "incorrect_answers": [
+            "Mount Godwin Austen",
+            "Kangchenjunga",
+            "Annapurna"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "In United States history, how many vice presidents did Franklin D. Roosevelt have during his time in office as president?",
+        "correct_answer": "3",
+        "incorrect_answers": [
+            "1",
+            "2",
+            "0"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "What was the name of Jonny&#039;s pet dog in The Adventures of Jonny Quest?",
+        "correct_answer": "Bandit",
+        "incorrect_answers": [
+            "Lucky",
+            "Rocky",
+            "Max"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "What physics principle relates the net electric flux out of a closed surface to the charge enclosed by that surface?",
+        "correct_answer": "Gauss&#039;s Law",
+        "incorrect_answers": [
+            "Faraday&#039;s Law",
+            "Ampere&#039;s Law",
+            "Biot-Savart Law"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who is Sonic&#039;s sidekick?",
+        "correct_answer": "Tails",
+        "incorrect_answers": [
+            "Shadow",
+            "Amy",
+            "Knuckles"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Which of the following is a personal computer made by the Japanese company Fujitsu?",
+        "correct_answer": "FM-7",
+        "incorrect_answers": [
+            "PC-9801",
+            "Xmillennium ",
+            "MSX"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "The Japanese god Izanagi successfully returned his wife Izanami from the Underworld.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    }
+]
